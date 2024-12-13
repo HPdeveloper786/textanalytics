@@ -6,7 +6,7 @@ export default function About(props) {
     color: props.mode === 'dark' ? 'white' : 'black',
     backgroundColor: props.mode === 'dark' ? '#252c3e' : 'gray',
     border :'1px solid',
-    backgroundColor: props.mode === 'dark' ? '#252c3e' : 'white'
+    // backgroundColor: props.mode === 'dark' ? '#252c3e' : 'white'
   };
 
   return (
